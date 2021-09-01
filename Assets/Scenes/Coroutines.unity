@@ -341,7 +341,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0cd3c11ec7fa924d95839f9f0e4add4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stopRoutine: 0
+  goRoutine: 1
+  _meshRenderer: {fileID: 1761500071}
 --- !u!1 &1883656186
 GameObject:
   m_ObjectHideFlags: 0
